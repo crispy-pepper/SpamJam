@@ -1,5 +1,5 @@
 # SpamJam | JamHacks 2024
-SpamJam is improving the lives of everyone one jar of jam at a time. Do you often find yoursef dozing off? Laying on the couch for hours, scrolling mindlessly? Well, SpamJam is the solution for you! Combining a dreadful siren and the addictive nature of gatcha games, tech nerds can be not only forced into excercising, but actually enjoying excercising. <br><br>
+SpamJam is improving the lives of everyone one jar of jam at a time. Do you often find yourself dozing off? Laying on the couch for hours, scrolling mindlessly? Well, SpamJam is the solution for you! Combining a dreadful siren and the addictive nature of gatcha games, tech nerds can be not only forced into exercising, but actually enjoying exercising. <br><br>
 
 [SpaceJam - Demo](https://www.youtube.com/watch?v=fkfGmcQMPg4)
 
