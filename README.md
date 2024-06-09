@@ -18,5 +18,3 @@ Libraries used:
 - mediapipe
 - numpy
 - random
-
-## Inspiration
