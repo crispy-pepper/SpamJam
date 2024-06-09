@@ -81,7 +81,7 @@ def START(name):
     global cap,situation,targets,squences,sequnce,imgPlayer,eyel,moul,eyer,mour,lshou,rshou,lelb,relb,pinl,lwrist,pinr,rwrist,thur,thul,indr,indl,nose,targets
     cap = cv2.VideoCapture(0)
     order = ["","walk","scavenge","mix","package"]
-    order = ["","mix"]
+    #order = ["","mix"]
     situation = False
     targets = []
     sequences = {
